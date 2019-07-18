@@ -19,11 +19,22 @@ function App() {
       </p>
       <p> 
         <b><a href="https://drshrey.substack.com">substack</a></b>
-        <p className="Bio">Read essays about books I've read, concepts I've encountered, projects I've built and the things I'm inspired by.</p>
+        <p className="Bio">Subscribe to my updates about books I've read, concepts I've encountered, projects I've built and the things I'm inspired by.</p>
       </p>
       <p> <a href="https://github.com/drshrey"><b>github</b></a></p>
       <p className="Bio">
         Take a look at what I've built and if you're into it, make a PR!
+      </p>
+
+      <p> 
+        <b>
+          <a href="https://shreyasj.com">
+            blog
+          </a>
+        </b>
+        <p className="Bio">
+          Log-form musings.
+        </p>
       </p>
     </div>
   );
